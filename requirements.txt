@@ -18,7 +18,4 @@ scipy==1.5.2
 six==1.15.0
 virtualenv==20.0.33
 Werkzeug==1.0.1
-widgetsnbextension==3.5.1
-win10toast==0.9
-wrapt==1.12.1
-win10toast==0.9
+wincertstore==0.2
