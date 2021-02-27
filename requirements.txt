@@ -21,4 +21,4 @@ Werkzeug==1.0.1
 widgetsnbextension==3.5.1
 win10toast==0.9
 wrapt==1.12.1
-wincertstore==0.2
+win10toast==0.9
